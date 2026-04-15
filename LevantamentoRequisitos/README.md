@@ -1,0 +1,1 @@
+Este diretório é destinado exclusivamente à documentação técnica de engenharia de software da Digibuybr. Aqui devem ser colocados arquivos PDF e documentos relacionados ao levantamento de requisitos funcionais e não funcionais, bem como quadros de análise de valor e Design Thinking.
